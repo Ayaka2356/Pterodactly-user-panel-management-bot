@@ -72,6 +72,8 @@ node index.js
 | `/server control`               | Control your server (start, stop, restart, kill)    | `serverid` (Server ID, required) <br> `action` (Action to perform: start, stop, restart, kill, required)       |
 | `/server list`                  | List all your servers                               | None                                                                                                           |
 
+# Errors ?
+In case of any error, [join this server](https://discord.gg/FCGn8B58jh) and ping me @ayaka068198.
 
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
